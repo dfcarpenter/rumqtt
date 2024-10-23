@@ -1945,6 +1945,7 @@ dependencies = [
  "flume",
  "futures-util",
  "http 1.0.0",
+ "linked-hash-map",
  "log",
  "matches",
  "native-tls",
